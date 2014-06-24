@@ -100,12 +100,12 @@ textarea {
 
 
 body { color:#999;  }
-
-#menu .logo { width:30px; position:relative; margin-left:40px; margin-right:auto; }
+#menu .pure-menu { background:#000; border-bottom:1px solid #555; }
+#menu .logo { width:30px; height:40px; position:absolute; top:5px; }
 #main section { padding:20px; }
 #main section .row { max-width:1200px; margin-left:auto; margin-right:auto; }  
 
-h1, h2, h3, h4 { font-family:"brandon-grotesque",sans-serif; }
+h1, h2, h3, h4, p, ul { font-family:"brandon-grotesque",sans-serif; }
 #main a { color:rgb(19, 201, 209); }
 .header { background:url(/img/branches.jpg) 0 70%; padding-bottom:40px; 
 -webkit-background-size: cover;
