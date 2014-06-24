@@ -1,0 +1,17 @@
+/* @override http://pi.penciledin.com/crossing-the-plateau/styles/crossing-the-plateau.css */
+
+html { background:url(/crossing-the-plateau/images/background.jpg) no-repeat fixed center bottom; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+  
+h1, h2 { margin:5px -5px; padding:5px; }
+h1 { background:rgba(255,255,255,0.3); }
+h2 { background:rgba(255,255,255,0.1); }
+p { font:19px "brandon-grotesque",sans-serif !important; color:#f0f0f0; }
+
+#main .accolades { background:#333; }
+.accolades p { font-size:18px !important; padding:10px 20px; }
+.accolades .name { font-size:15px; text-transform:uppercase; color:#adadad; }
+.accolades strong { text-transform:uppercase; color:#9ddcff; letter-spacing:2px; background-color:#385261; }
