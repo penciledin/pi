@@ -4,7 +4,7 @@
 	<div class="pure-g">
 		<article class="pure-u-1 pure-u-md-1-2">
 			<p>Ivan BrownOtter writes from experience, <strong>bringing the beauty and mystery of the Navajo Reservation to us</strong>. Whether he’s inside a lightning storm in a Navajo classroom or walking the mesa by moonlight, the experience is ours. <br />
-		<span class="name">— Rosemary Wilvert, 2007 Poet Laureate, San Luis Obispo, California </span></p>
+		<span class="name">— Rosemary Wilvert, 2007 Poet Laureate, San Luis Obispo, CA </span></p>
 		</article>
 
 		<article class="pure-u-1 pure-u-md-1-2">
@@ -19,12 +19,12 @@
 
 		<article class="pure-u-1 pure-u-md-1-2">
 			<p><strong>Fresh as a spring wind, clear as desert dawn, open as the night sky</strong>: Ivan BrownOtter’s poetry describes a world of remarkable beauty. You will come away feeling calmer, steadier, and wiser. <br />
-			<span class="name">— Ken Solomon, Dept Head, Agricultural Engineering, CalPoly, SLO </span></p>
+			<span class="name">— Ken Solomon, Dept Head, Agricultural Engineering, Cal Poly SLO </span></p>
 		</article>
 
 		<article class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
 			<p>Ivan’s poetry invites us to listen with simplicity and humor. It welcomes us to the heart, to the earth, and to our humanity, oftentimes filling us with serenity as we connect our physical and spiritual worlds.  <br />
-		<span class="name">— Samuel H. Duarte, Poet and Author of Carnalval, Santa Maria, CA  </span></p>
+		<span class="name">— Samuel H. Duarte, Poet and Author of <em>Carnalval</em>, Santa Maria, CA  </span></p>
 		</article>
 
 		<article class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
@@ -54,12 +54,12 @@
 
 		<article class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
 			<p>Ivan tells us to write from the heart. These poems are right from the heart, his heart. Through his eyes we experience Mother Nature and native American culture up close and personal. Thanks for these heartfelt stories. <br />
-			<span class="name">— Janejane </span></p>
+			<span class="name">— Janejane</span></p>
 		</article>
 
 		<article class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
 			<p>Had Hillerman chosen reservation school teachers rather than police officers as heroes for his novels, the stories of their lives, culture and struggles of Indian peoples no doubt would have followed Ivan BrownOtter’s path. <br />
-			<span class="name">— Ed Musolff MBHS teacher and Cuesta CC Basketball Coach (Retired) </span></p>
+			<span class="name">— Ed Musolff, MBHS teacher and Cuesta CC Basketball Coach (Retired) </span></p>
 		</article>
 
 		<article class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">

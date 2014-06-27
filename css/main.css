@@ -106,6 +106,15 @@ body { color:#999;  }
 #main section .row { max-width:1200px; margin-left:auto; margin-right:auto; }  
 
 h1, h2, h3, h4, p, ul { font-family:"brandon-grotesque",sans-serif; }
+h1, h2 { margin:5px -5px; padding:5px; }
+h1 { background:rgba(255,255,255,0.3); }
+h2 { background:rgba(255,255,255,0.1); }
+p { font-size:19px; }
+
+.details { text-align:center; width:60%; margin:20px auto; padding:0 10px; border:1px solid #fff; }
+.details .price { width:60%; margin:20px auto 0; padding-bottom:20px; border-bottom:1px solid #fff; }
+.details .button { display:inline-block; }
+
 #main a { color:rgb(19, 201, 209); }
 .header { background:url(/img/branches.jpg) 0 70%; padding-bottom:40px; 
 -webkit-background-size: cover;
@@ -114,7 +123,12 @@ h1, h2, h3, h4, p, ul { font-family:"brandon-grotesque",sans-serif; }
   background-size: cover; }
 .header h1, .header h2 { color:#FFF; text-shadow:black 0px 2px 8px; }
 
+.book .info { padding-top:100px; }
+.book .cover img { width:80%; margin:0 auto 20px; }
 
+.accolades p { font-size:18px !important; padding:10px 20px; }
+.accolades .name { font-size:15px; text-transform:uppercase; }
+.accolades strong { text-transform:uppercase; letter-spacing:2px; }
 
 
 

@@ -1,0 +1,16 @@
+/* @override http://pi.penciledin.com/books/crossing-the-plateau/styles/crossing-the-plateau.css */
+html { background:url(/books/crossing-the-plateau/images/background.jpg) no-repeat fixed center bottom; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+  
+p { color:#f0f0f0; }
+
+.book { background:rgba(0,0,0,.5); }
+.book .cover img { border:5px solid #fff; }
+
+#main .accolades { background:#333; }
+.accolades p { font-size:18px !important; padding:10px 20px; }
+.accolades .name { font-size:15px; text-transform:uppercase; color:#adadad; }
+.accolades strong { color:#9ddcff;  background-color:#385261; }

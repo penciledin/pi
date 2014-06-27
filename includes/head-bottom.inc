@@ -19,7 +19,8 @@
             <a class="pure-menu-heading" href="/"><img class="logo" src="/img/logo.png" width="30" height="30" alt="" /></a>
             <ul>
                 <li><a href="/if-and-when/"><em>if&amp;when</em></a></li>
-                <li><a href="/crossing-the-plateau/">Crossing the Plateau</a></li>
+                <li><a href="/books/biting-the-apple/">Biting the Apple</a></li>
+                <li><a href="/books/crossing-the-plateau/">Crossing the Plateau</a></li>
 
                 <li class="menu-item-divided"><a href="#">Services</a></li>
             </ul>
