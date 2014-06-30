@@ -9,7 +9,6 @@ p { color:#f0f0f0; }
 
 .book { background:rgba(0,0,0,.5); }
 .book .cover img { border:5px solid #fff; }
-.book .learnmore { display:none; }
 
 #main .accolades { background:#333; }
 .accolades p { font-size:18px !important; padding:10px 20px; }

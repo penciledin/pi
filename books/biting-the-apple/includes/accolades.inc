@@ -8,12 +8,12 @@
 		</article>
 
 		<article class="pure-u-1 pure-u-md-1-2">
-			<p>This delightful collection spans nearly 70 years of the poet's experience tasting apples in the Garden of her life, beginning with her earliest memories as a child of three and ending with observations about grandchildren. As good poetry should, these poems evoke insights about ourselves and the light and dark world of which we are all apple-biting by-products.<br />
+			<p>This delightful collection spans nearly 70 years of the poet's experience tasting apples in the Garden of her life, beginning with her earliest memories as a child of three and ending with observations about grandchildren. As good poetry should, <strong>these poems evoke insights about ourselves and the light and dark world</strong> of which we are all apple-biting by-products.<br />
 			<span class="name">— Margaret Van Every, author of <em>A Pillow Stuffed with Diamonds</em> (2011) and <em>Saying Her Name</em> (2012)</span></p>
 		</article>
 
 		<article class="pure-u-1 pure-u-md-1-2">
-			<p>In this coming of age and beyond book, Greensfelder writes with humor and charm. Federico Garcia Lorca said the essence of poetry was in "el vulnerado." <em>Biting the Apple</em> reveals this vulnerability from the child who faces life's pain to the adult who finds survival skills. <em>Biting the Apple</em> is <strong>a delightful and moving verse memoir.</strong><br />
+			<p>In this coming of age and beyond book, Greensfelder writes with humor and charm. Federico Garcia Lorca said the essence of poetry was in "el vulnerado." <em>Biting the Apple</em> reveals this vulnerability from the child who faces life's pain to the adult who finds survival skills. <em>Biting the Apple</em> is <strong>a delightful and moving verse memoir.</strong><br />
 			<span class="name">— Glenna Luschei, Past Poet Laureate San Luis Obispo, Editor &amp; Publisher of <em>Solo Press</em></span></p>
 		</article>
 

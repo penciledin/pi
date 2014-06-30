@@ -124,14 +124,17 @@ p { font-size:19px; }
 .header h1, .header h2 { color:#FFF; text-shadow:black 0px 2px 8px; }
 
 .book .info { padding-top:100px; }
+@media only screen and (max-width:768px) { 
+.book .info { padding-top:20px; }
+ }
 .book .cover img { width:80%; margin:0 auto 20px; }
 
-.accolades p { font-size:18px !important; padding:10px 20px; }
+.accolades p, .news p { font-size:18px !important; padding:10px 20px; }
 .accolades .name { font-size:15px; text-transform:uppercase; }
 .accolades strong { text-transform:uppercase; letter-spacing:2px; }
 
-
-
+.books-page .book { background:#333; border-bottom:1px solid #999; }
+.books-page .book .learnmore { text-align:center; }
 
 
 

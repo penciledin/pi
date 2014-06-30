@@ -22,6 +22,7 @@
         <!-- <link rel="stylesheet" href="/css/sidemenu.css" /> --> 
         <script type="text/javascript" src="//use.typekit.net/jny2dwk.js"></script>
         <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+        <link rel="stylesheet" href="/css/animate.css" />
         <link rel="stylesheet" href="/css/main.css" />
         
         <script src="/js/vendor/modernizr-2.6.2.min.js"></script>
