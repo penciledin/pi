@@ -1,0 +1,7 @@
+Dear <?php echo $representative; ?>,
+
+From everything I have seen over the past few months, it seems that the current politicians in favor of this Bill have a rather confusing agenda, but no understanding whatsoever of how to move it forward or what it will really mean to Americans in the future. Therefore, I heartily oppose the current Health Care Reform Bill. I especially oppose the public option which will put the government in charge of our country's medical care. If the government cannot efficiently and honestly conduct business in Medicare, Medicaid, or the housing and financial agencies such as Fanny Mae and Freddy Mac, how can we trust them to take over such a major part of American citizens' medical needs. 
+
+In addition to putting the government in charge of our medical care, your Bill would let bureaucrats make medical decisions for us instead of letting the doctors decide what we need. You would also strip the Seniors' benefits by stripping Medicare of $500 billion of its funds in order to take care of people currently without insurance—many of them by their own choice, or because they are illegal aliens. If you think you can save enough money by getting rid of fraud and corruption, why haven't you done it already? 
+
+As my representative, you are working for me. If you decide to vote for this Bill against my wishes, you can be sure that I, and as many friends and neighbors as I can influence, will take you out of office in the next election. 

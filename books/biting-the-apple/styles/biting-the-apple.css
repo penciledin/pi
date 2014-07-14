@@ -1,12 +1,12 @@
 /* @override http://pi.penciledin.com/books/biting-the-apple/styles/biting-the-apple.css */
 
-html { background:url(/books/biting-the-apple/images/coverbg.jpg) no-repeat fixed 100% 50%; 
+html { background:#474747 url(/books/biting-the-apple/images/coverbg.jpg) no-repeat fixed 100% 50%; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover; }
 @media only screen and (max-width:768px) { 
-html { background-size:1000px; background-position:-50px top; }
+html { background:#474747 }
  }
  
  @media only screen and (min-width:1330px) { 
@@ -20,7 +20,7 @@ html { background-position:-50px -160px; }
 
 h1, h2 { background:rgba(254,235,0,0.3); }
 
-.book, .news { background:#fff; }
+.book, .news, .accolades { background:#eee; }
 .book .details { border:1px solid #999; }
 .book .learnmore { display:none; }
 .book .price { border-bottom:1px solid #999; }
@@ -32,7 +32,6 @@ h1, h2 { background:rgba(254,235,0,0.3); }
 .about .pure-u-1, 
 .poem .pure-u-1:last-child p { background-color:rgba(30,30,30,0.6); }
 
-#main .accolades { background:#fff; }
 .accolades p { font-size:18px; }
 .accolades .name { font-size:15px; text-transform:uppercase; color:#adadad; }
 .accolades strong { background:rgba(254,235,0,0.3); color:#ada141; }

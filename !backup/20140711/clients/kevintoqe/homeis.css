@@ -1,0 +1,31 @@
+/* @override http://penciledin.com/clients/kevintoqe/homeis.css */
+
+html { background: #fef4e9 url(images/bg_face.jpg) no-repeat left top; }
+
+div#header img { position: absolute; left: 330px; top: 75px;}
+div#header div#menu { position: absolute; left: 330px; top: 20px; z-index: 1; }
+div#header div#menu a { outline: none; }
+div#header i { display: none; }
+a#bio { height: 38px; width: 65px; display: inline; position: relative; float: left; background: url(images/header_menu.png) no-repeat; }
+a#shows { height: 38px; width: 120px; display: inline; position: relative; float: left; background: url(images/header_menu.png) no-repeat -65px 0; }
+a#music { height: 38px; width: 110px; display: inline; position: relative; float: left; background: url(images/header_menu.png) no-repeat -185px 0; }
+a#contact { height: 38px; width: 130px; display: inline; position: relative; float: left; background: url(images/header_menu.png) no-repeat -295px 0; }
+
+a#bio:hover { background-position: 0 -39px; }
+a#shows:hover { background-position: -65px -39px; }
+a#music:hover { background-position: -185px -39px; }
+a#contact:hover { background-position: -295px -39px; }
+
+a#bio:active, a#bio.active { background-position: 0 -78px; }
+a#shows:active, a#shows.active { background-position: -65px -78px; }
+a#music:active, a#music.active { background-position: -185px -78px; }
+a#contact:active, a#contact.active { background-position: -295px -78px; }
+
+div#container { position: absolute; left: 330px; top: 270px; width: 500px; text-align: left; }
+p { color: #3b3833; margin-bottom: 15px; font: 110%/1.8 Garamond, "Hoefler Text", Times, Times New Roman, serif; }
+h1 { color: #9b8a6f; margin-bottom: 8px; font: 158%/1.2 Helvetica, "Helvetica Neue", Arial, sans; }
+em { font-style: italic; }
+
+ul { padding-left: 15px; }
+li { color: #3b3833; font: 110%/1.8 Garamond, "Hoefler Text", Times, Times New Roman, serif; }
+div#container a { color: #3b3833; font-style: italic; text-decoration: none;}

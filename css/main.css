@@ -99,9 +99,25 @@ textarea {
    ========================================================================== */
 
 
-body { color:#999;  }
-#menu .pure-menu { background:#000; border-bottom:1px solid #555; }
-#menu .logo { width:30px; height:40px; position:absolute; top:5px; }
+body { color:#999; }
+#menu .pure-menu { background:#000; border:1px solid #555; border-left:none; border-right:none; position:absolute; top:10px; z-index:1; }
+#menu .pure-menu a.pure-menu-heading { z-index:2; position:absolute; }
+#menu .pure-menu li { padding-left:20px; }
+#menu .pure-menu li:first-child { margin-left:40px; }
+#menu .pure-menu a { color:#e2e2e2; display:inline-block; padding:0; }
+#menu .pure-menu a:hover { background:transparent; color:#979797; }
+#menu .logo { width:40px; height:55px; position:absolute; top:-5px; left:10px; }
+#main section:first-child { padding-top:60px; }
+@media only screen and (max-width:480px) { 
+	#menu .pure-menu ul { text-align:center; padding:10px; }
+	#menu .pure-menu ul li { padding:5px 0; }
+	#menu .pure-menu li:first-child { margin-left:0; }
+	#menu .pure-menu { position:relative; border-top:none; } 
+	#menu .pure-menu-heading, #menu .logo, #menu .pure-menu a.pure-menu-heading { position:relative; margin:0 auto; padding:0 !important; display:block; left:0; }
+	#main section:first-child { padding-top:0px; }
+	html { background-image:none; }
+}
+
 #main section { padding:20px; }
 #main section .row { max-width:1200px; margin-left:auto; margin-right:auto; }  
 
@@ -132,12 +148,6 @@ p { font-size:19px; }
 .accolades p, .news p { font-size:18px !important; padding:10px 20px; }
 .accolades .name { font-size:15px; text-transform:uppercase; }
 .accolades strong { text-transform:uppercase; letter-spacing:2px; }
-
-.books-page .book { background:#333; border-bottom:1px solid #999; }
-.books-page .book .learnmore { text-align:center; }
-
-
-
 
 
 /* ==========================================================================

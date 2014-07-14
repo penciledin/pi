@@ -1,0 +1,126 @@
+/* @override 
+	http://www.penciledin.com/clients/itsyourissue/blue.css
+	http://penciledin.com/clients/itsyourissue/blue.css
+	http://itsyourissue.com/blue.css
+*/
+
+/* @group common */
+html { background: #000 url(images/bg_whole.jpg) repeat-x; }
+body { background: url(images/bg_content.png) repeat-y center; }
+div#container { background: url(images/bg_top.jpg) no-repeat center top; }
+div#hd { position: relative; margin-bottom: 20px; }
+div#bd { padding-right: 20px; }
+div.yui-g { background: #ffffff; }
+
+a#logo i, div#menu i, div#parchment #tagline, .hidden, div#parchment i, button i { display: none; }
+
+p { font: 100%/1.5 Cambria, Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif; margin-bottom: 1em;}
+div#hd p { margin-bottom: 0;}
+.clearer { clear: both; }
+a { color: #005593; text-decoration: none; }
+a:hover { text-decoration: underline; }
+h1 { font: 157%/1.5 Helvetica Neue, Arial, Helvetica, sans-serif; color: #002860; margin-bottom: .5em; clear: both; }
+h2 { font: 131%/1.5 Helvetica Neue, Arial, Helvetica, sans-serif; color: #002860; margin-bottom: .5em; }
+h3, label { font: 110%/1.5 Helvetica Neue, Arial, Helvetica, sans-serif; color: #002860; }
+h4 { font: 90%/1.5 Helvetica Neue, Arial, Helvetica, sans-serif; color: #002860; margin-bottom: 8px; }
+
+ul { margin-bottom: 20px; }
+
+
+cite { text-align: right; display: block; font: 80%/1.5 Helvetica Neue, Arial, Helvetica, sans-serif; color: #002860; margin-bottom: 20px;}
+/* @end */
+
+/* @group header */
+a#logo { height: 127px; width: 160px; display: block; }
+div#menu { display: block; height: 40px; position: relative; background: url(images/header_menu.png) no-repeat -10px 0; }
+div#menu.loggedIn { background: url(images/header_menu.png) no-repeat -10px -82px; }
+a#about { position: absolute; width: 107px; height: 39px; }
+a#about:hover, a#about.active { background: url(images/header_menu.png) -10px -41px; }
+a#explore { position: absolute; left: 107px; width: 67px; height: 39px;}
+a#explore:hover, a#explore.active { background: url(images/header_menu.png) -117px -41px; }
+a#contribute { position: absolute; left: 172px; width: 119px; height: 39px; }
+a#contribute:hover, a#contribute.active { background: url(images/header_menu.png) -182px -41px; }
+a#media { position: absolute; left: 290px; width: 162px; height: 39px; }
+a#media:hover, a#media.active { background: url(images/header_menu.png) -300px -41px; }
+a#login { position: absolute; left: 810px; width: 65px; height: 39px; }
+a#login:hover, a#login.active { background: url(images/header_menu.png) 143px -41px; }
+a#signup { position: absolute; left: 875px; width: 70px; height: 39px; }
+a#signup:hover, a#signup.active { background: url(images/header_menu.png) 78px -41px; }
+a#logout { position: absolute; left: 870px; width: 75px; height: 39px }
+a#logout:hover { background: url(images/header_menu.png) 83px -123px; }
+
+div#parchment { position: relative; background: url(images/content_parchmentFront.jpg) no-repeat; height: 256px; width: 963px; left: -15px; position: relative; float: left;}
+div#parchment a#learnMore { position: absolute; top: 180px; left: 240px; width: 250px; height: 40px; }
+
+div#userInfo { background: #003057; display: block; color: white; width:963px; margin-top: 0px; margin-left: -15px; position: relative; margin-bottom: 0px; padding-top: 10px; padding-bottom: 10px; }
+div#hd.home div#userInfo { margin-top: 0px; margin-bottom: 0px; }
+div#userInfo span.welcome { margin-left: 27px; position: relative; margin-right: 26px; }
+div#userInfo span { margin-right: 26px; }
+
+div#userInfo a { color: #fff; text-decoration: underline; }
+
+img.adTopLeaderboard { position: absolute; top: 20px; right: 0px; z-index: 1;}
+img.adRight { float: right; position: relative; }
+img.adMid { position: relative; margin-left: auto; margin-right: auto;}
+
+/* @end */
+
+/* @group content */
+form#homeLocation, form#homeLogin { position: relative; }
+form#homeLocation input { width: 295px; }
+form button.login { width: 100px; height: 30px; border: none; color: #fff; text-align: left; background: url(images/buttons_login.jpg) no-repeat; cursor: pointer; position: absolute; top: 2px;}
+form button.login:hover { width: 100px; height: 30px; border: none; color: #fff; text-align: left; background: url(images/buttons_login.jpg) no-repeat 0px -35px; cursor: pointer; }
+form button.login:active { width: 100px; height: 30px; border: none; color: #fff; text-align: left; background: url(images/buttons_login.jpg) no-repeat 0px -70px; cursor: pointer; }
+form button.register { width: 100px; height: 30px; border: none; color: #fff; text-align: left; background: url(images/buttons_register.jpg) no-repeat; cursor: pointer; outline:none; position: absolute; top: 37px;}
+form button.register:hover { width: 100px; height: 30px; border: none; color: #fff; text-align: left; background: url(images/buttons_register.jpg) no-repeat 0px -35px; cursor: pointer; outline: none;}
+form button.register:active { width: 100px; height: 30px; border: none; color: #fff; text-align: left; background: url(images/buttons_register.jpg) no-repeat 0px -70px; cursor: pointer; outline: none;}
+form button.send { width: 100px; height: 30px; border: none; color: #fff; text-align: left; background: url(images/buttons_send.jpg) no-repeat; cursor: pointer; float:right; position: relative; clear: both; }
+form button.send:hover { width: 100px; height: 30px; border: none; color: #fff; text-align: left; background: url(images/buttons_send.jpg) no-repeat 0px -35px; cursor: pointer; }
+form button.send:active { width: 100px; height: 30px; border: none; color: #fff; text-align: left; background: url(images/buttons_send.jpg) no-repeat 0px -70px; cursor: pointer; }
+
+ul.upcomingIssues { margin-left: 0px;}
+ul.upcomingIssues li { list-style-position:outside; list-style-type: none; }
+
+form#signupFull li { margin-bottom: 30px; display: block; position:relative; }
+form#signupFull input, form#signupFull select { position:absolute; right: 0px; width: 300px; color: #000000; font-style: normal; }
+form#signupFull div.radio input { width: auto; position: relative; margin-left: 15px; margin-right: 5px; }
+form#signupFull button.register { position: relative; top: 0px; float: right; margin-bottom: 10px;
+}
+.required { color: #c11918; font-size: 110% }
+
+ul ul { margin-left: 15px; }
+ul li { line-height: 1.5; font: 100%/1.5 Cambria, Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif; list-style-position: outside; list-style-type: disc; margin-left: 15px;}
+
+div#legend { background: #FFF0C0; margin-left: -10px; padding-left: 9px; padding-top: 9px; border: 1px solid #FFF080; margin-bottom: 10px; position: relative; float: left; min-height: 110px;}
+div#legend ul { position: relative; float: left; }
+div#legend li { position: relative; float: left; width: 150px; margin-bottom: -30px; margin-top: 5px; list-style-position:inside; list-style-type: none; }
+div#legend p { font: 87%/1.3 Cambria, Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif; }
+div#legend img { margin-right: 3px; float: left; }
+
+div.media li { list-style-type: none; }
+div.media input { margin-right: 20px; }
+div.media h3 { margin-bottom: 3px; }
+div.media div { float: left; margin-right: 30px; }
+/* @end */
+
+/* @group form */
+form { margin-bottom: 20px; }
+form input { background: url(images/buttons_inputBG.jpg) repeat-x left center;  border: 1px solid #555; color: #757575; font-style: italic; padding: 9px 3px 8px; margin-bottom: 10px;}
+form.letter label { margin-bottom: 8px; display: block; }
+form.letter input#subject { width: 600px; }
+textarea { background: url(images/buttons_inputBG.jpg) repeat-x scroll left top; display: block; width: 600px; border: 1px solid #555; margin-bottom: 10px; font: 100% "Courier New", Courier, mono; padding: 8px 5px; height: 400px; }
+
+div.radio input { border: none; margin-left: 10px; margin-right: 5px; display: inline;}
+form#signupFull div.radio { display: inline; position: relative; float: right; }
+
+
+/* @end */
+
+/* @group footer */
+div#ft { border-top: 5px double #810404; margin-left: -15px; padding-top: 30px; width: 963px; margin-bottom: 20px; }
+div#ft ul { width: 300px; float: left; padding-left: 15px; padding-bottom: 20px; }
+div#ft ul li {list-style-position:inside; list-style-type: none;}
+
+
+/* @end */
+

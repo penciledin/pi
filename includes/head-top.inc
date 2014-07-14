@@ -19,7 +19,6 @@
         <!--[if gt IE 8]><!-->
             <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/grids-responsive-min.css">
         <!--<![endif]-->
-        <!-- <link rel="stylesheet" href="/css/sidemenu.css" /> --> 
         <script type="text/javascript" src="//use.typekit.net/jny2dwk.js"></script>
         <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
         <link rel="stylesheet" href="/css/animate.css" />

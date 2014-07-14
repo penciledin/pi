@@ -1,0 +1,29 @@
+/* @override 
+	http://pi.penciledin.com/css/home.css
+*/
+html { background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #09152A), color-stop(1, #476282));
+background-image: -webkit-linear-gradient(bottom, #09152A 0%, #476282 100%);
+background-image:      -o-linear-gradient(bottom, #09152A 0%, #476282 100%);
+background-image:    -moz-linear-gradient(bottom, #09152A 0%, #476282 100%);
+background-image:     -ms-linear-gradient(bottom, #09152A 0%, #476282 100%);
+background-image:      linear-gradient(to bottom, #09152A 0%, #476282 100%); } 
+
+p { color:#fff; }
+
+#menu .pure-menu { background:none; border:none; }
+#menu ul { display:none; }
+
+h1, h2 { text-align:center; }
+.discuss h1 { background:none; color:#fff; border-bottom:1px solid #000; font-size:45px; }
+.book { border-bottom:1px solid #000; }
+.book h1, .book h2 { background:none; color:#feffff; }
+.book .learnmore { text-align:center; }
+
+.ifwhen .ifwhen-logo { width:60%; margin:30px auto 40px; display:block; }
+.ifwhen p { width:80%; margin:20px auto; }
+.ifwhen-covers { text-align:center; }
+.ifwhen-covers img { max-width:33%; display:inline-block; float:left; margin-top:100px; }
+
+@media only screen and (max-width:720px) { 
+	.ifwhen-covers img { margin-top:20px; }
+}
