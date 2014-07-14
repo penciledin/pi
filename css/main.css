@@ -121,11 +121,12 @@ body { color:#999; }
 #main section { padding:20px; }
 #main section .row { max-width:1200px; margin-left:auto; margin-right:auto; }  
 
-h1, h2, h3, h4, p, ul { font-family:"brandon-grotesque",sans-serif; }
+h1, h2, h3, h4, p, ul, blockquote { font-family:"brandon-grotesque",sans-serif; }
 h1, h2 { margin:5px -5px; padding:5px; }
 h1 { background:rgba(255,255,255,0.3); }
 h2 { background:rgba(255,255,255,0.1); }
 p { font-size:19px; }
+blockquote { font-size:22px; font-style:italic; }
 
 .details { text-align:center; width:60%; margin:20px auto; padding:0 10px; border:1px solid #fff; }
 .details .price { width:60%; margin:20px auto 0; padding-bottom:20px; border-bottom:1px solid #fff; }
