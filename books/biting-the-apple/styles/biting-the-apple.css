@@ -5,8 +5,29 @@ html { background:#474747 url(/books/biting-the-apple/images/coverbg.jpg) no-rep
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover; }
+
+h1, h2 { background:rgba(254,235,0,0.3); }
+
+.book, .news, .accolades { background:#eee; }
+.book .details { border:1px solid #999; }
+.book .learnmore { display:none; }
+#main .book .price { border-bottom:1px solid #999; }
+.book .cover img { border:5px solid #999; }
+
+.poem, .about { color:#fff; }
+.poem p, .about p { text-shadow:#2e2e2e 1px 1px 4px; padding:10px; }
+.about a { color:rgba(254,235,0,1) !important; }
+.about .pure-u-1, 
+.poem .pure-u-1:last-child p { background-color:rgba(30,30,30,0.6); }
+#main .poem.smoky { padding:500px 20px; }
+
+.accolades p { font-size:18px; }
+.accolades .name { font-size:15px; text-transform:uppercase; color:#adadad; }
+.accolades strong { background:rgba(254,235,0,0.3); color:#ada141; }
+
 @media only screen and (max-width:768px) { 
 html { background:#474747 }
+#main .poem.smoky { padding:20px; }
  }
  
  @media only screen and (min-width:1330px) { 
@@ -16,22 +37,3 @@ html { background-position:0 40%; }
 @media only screen and (max-height:600px) { 
 html { background-position:-50px -160px; }
  }
-
-
-h1, h2 { background:rgba(254,235,0,0.3); }
-
-.book, .news, .accolades { background:#eee; }
-.book .details { border:1px solid #999; }
-.book .learnmore { display:none; }
-.book .price { border-bottom:1px solid #999; }
-.book .cover img { border:5px solid #999; }
-
-.poem, .about { color:#fff; }
-.poem p, .about p { text-shadow:#2e2e2e 1px 1px 4px; padding:10px; }
-.about a { color:rgba(254,235,0,1) !important; }
-.about .pure-u-1, 
-.poem .pure-u-1:last-child p { background-color:rgba(30,30,30,0.6); }
-
-.accolades p { font-size:18px; }
-.accolades .name { font-size:15px; text-transform:uppercase; color:#adadad; }
-.accolades strong { background:rgba(254,235,0,0.3); color:#ada141; }

@@ -109,13 +109,13 @@ body { color:#999; }
 #menu .logo { width:40px; height:55px; position:absolute; top:-5px; left:10px; }
 #main section:first-child { padding-top:60px; }
 @media only screen and (max-width:480px) { 
-	#menu .pure-menu ul { text-align:center; padding:10px; }
-	#menu .pure-menu ul li { padding:5px 0; }
-	#menu .pure-menu li:first-child { margin-left:0; }
-	#menu .pure-menu { position:relative; border-top:none; } 
-	#menu .pure-menu-heading, #menu .logo, #menu .pure-menu a.pure-menu-heading { position:relative; margin:0 auto; padding:0 !important; display:block; left:0; }
-	#main section:first-child { padding-top:0px; }
-	html { background-image:none; }
+    #menu .pure-menu ul { text-align:center; padding:10px; }
+    #menu .pure-menu ul li { padding:5px 0; }
+    #menu .pure-menu li:first-child { margin-left:0; }
+    #menu .pure-menu { position:relative; border-top:none; } 
+    #menu .pure-menu-heading, #menu .logo, #menu .pure-menu a.pure-menu-heading { position:relative; margin:0 auto; padding:0 !important; display:block; left:0; }
+    #main section:first-child { padding-top:0px; }
+    html { background-image:none; }
 }
 
 #main section { padding:20px; }
@@ -128,17 +128,12 @@ h2 { background:rgba(255,255,255,0.1); }
 p { font-size:19px; }
 blockquote { font-size:22px; font-style:italic; }
 
-.details { text-align:center; width:60%; margin:20px auto; padding:0 10px; border:1px solid #fff; }
-.details .price { width:60%; margin:20px auto 0; padding-bottom:20px; border-bottom:1px solid #fff; }
+.details { text-align:center; width:60%; border:1px solid #fff; margin:20px auto; padding:0 10px; }
+#main .details .price { width:60%; margin:20px auto 0; padding-bottom:20px; border-bottom:1px solid #fff; }
 .details .button { display:inline-block; }
 
 #main a { color:rgb(19, 201, 209); }
-.header { background:url(/img/branches.jpg) 0 70%; padding-bottom:40px; 
--webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover; }
-.header h1, .header h2 { color:#FFF; text-shadow:black 0px 2px 8px; }
+#main p { padding:0 20px;  }
 
 .book .info { padding-top:100px; }
 @media only screen and (max-width:768px) { 

@@ -1,2 +1,9 @@
-html { background: url(/img/gradient_squares.jpg) repeat; background-size:202px 202px; }
-p { color:#fff; }
+html { 
+background-image: -ms-radial-gradient(right center, circle farthest-corner, #8C8C8C 0%, #45808C 50%, #1D698A 75%, #1D5161 87.5%, #003852 100%);
+background-image: -moz-radial-gradient(right center, circle farthest-corner, #8C8C8C 0%, #45808C 50%, #1D698A 75%, #1D5161 87.5%, #003852 100%);
+background-image: -o-radial-gradient(right center, circle farthest-corner, #8C8C8C 0%, #45808C 50%, #1D698A 75%, #1D5161 87.5%, #003852 100%);
+background-image: -webkit-gradient(radial, right center, 0, right center, 964, color-stop(0, #8C8C8C), color-stop(0.5, #45808C), color-stop(0.75, #1D698A), color-stop(0.875, #1D5161), color-stop(1, #003852));
+background-image: -webkit-radial-gradient(right center, circle farthest-corner, #8C8C8C 0%, #45808C 50%, #1D698A 75%, #1D5161 87.5%, #003852 100%); 
+background-image: radial-gradient(circle farthest-corner at right center, #8C8C8C 0%, #45808C 50%, #1D698A 75%, #1D5161 87.5%, #003852 100%);
+}
+#main p { color:#fff; }
