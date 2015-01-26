@@ -14,6 +14,8 @@ h1, h2 { background:rgba(254,235,0,0.3); }
 #main .book .price { border-bottom:1px solid #999; }
 .book .cover img { border:5px solid #999; }
 
+.biting-the-apple .book a.include-link { color:#999 !important; pointer-events:none !important; cursor:default; }
+
 .poem, .about { color:#fff; }
 .poem p, .about p { text-shadow:#2e2e2e 1px 1px 4px; padding:10px; }
 .about a { color:rgba(254,235,0,1) !important; }
